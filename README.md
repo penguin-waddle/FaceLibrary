@@ -1,7 +1,16 @@
 # FaceLibrary: Your Personal Photo Collection
 
 ## Overview
-FaceLibrary is an innovative iOS app that offers a personalized way to store and manage photos. Users can import pictures from their photo library, assign a unique name to each, and view them in a curated list. Selecting a photo from the list displays a detailed view with an enlarged version of the image. This app effectively combines photo management with custom labeling and secure storage.
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/penguin-waddle/FaceLibrary/assets/123434744/94edfdc8-6144-4488-b4be-af54a9be2b26" alt="Face Library App Demo" width="300" />
+    </td>
+    <td>
+      FaceLibrary is an innovative iOS app that offers a personalized way to store and manage photos. Users can import pictures from their photo library, assign a unique name to each, and view them in a curated list. Selecting a photo from the list displays a detailed view with an enlarged version of the image. This app effectively combines photo management with custom labeling and secure storage.
+    </td>
+  </tr>
+</table>
 
 ## Features
 - **Photo Import**: Use `PHPickerViewController` to select photos from the user's photo library.
@@ -36,3 +45,5 @@ FaceLibrary is an innovative iOS app that offers a personalized way to store and
 *FaceLibrary was developed as part of the "100 Days of SwiftUI" course, focusing on integrating SwiftUI with UIKit, managing photo data, and utilizing Core Location for geotagging.*
 
 ---
+
+[Back to Main Repository](https://github.com/penguin-waddle/100-Days-of-SwiftUI)
